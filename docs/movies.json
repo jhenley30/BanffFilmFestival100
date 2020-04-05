@@ -1,103 +1,812 @@
-{"movies":[
-{"title":"RJ Ripper", "year":"2018", "lengthInMin":"20", "description":"Kids and bikes; wherever you are in the world, they go together. The chaotic streets of Kathmandu may not seem like a typical breeding ground for world-class mountain bikers, but then again nothing is typical about Rajesh (RJ) Magar. Since learning to ride on a beat-up clunker, to becoming the four-time National Champion at age 21, RJ’s story is one of boundless childhood dreaming and unstoppable determination, forged from junkyard scraps and tested on the rugged trails of the mighty Himalaya. ", "url":"https://vimeo.com/275506930", "tags":""},
-{"title":"BAWLI BOOCH - Downhill Biking India", "year":"2017", "lengthInMin":"5", "description":"4Play is India’s first adventure film company. A fun short film with a catchy song that will make you smile. Downhill Mountain Biking in Manali (India), Himalayan cultural nuances and a catchy Bollywood song that will make your foot tap and keep your eyes glued to the screen. ", "url":"https://www.youtube.com/watch?v=PvExzRrB9Fg", "tags":""},
-{"title":"Speak To Me Softly", "year":"2019", "lengthInMin":"6", "description":"Experience fear and emotion alongside climber Jenny Abegg as she ascends Moonlight Buttress while fighting the self-criticism and doubt from that little voice we all have in the back of our heads. ", "url":"https://rockandice.com/videos/climbing/speak-to-me-softly/?cn-reloaded=1", "tags":""},
-{"title":"Life of Pie | Pizza and Bikes Can Fix Anything", "year":"2019", "lengthInMin":"11", "description":"In 2002, mountain bikers and entrepreneurs Jen Zeuner and Anne Keller moved to Fruita, Colorado, in search of cheap rent, world-class single track, and free time to ride. Over 15 years later, the two unconventional women have helped reshape one of the state’s most conservative towns, uniting the community through advocacy, inclusivity, and damn good pizza. ", "url":"https://www.youtube.com/watch?v=z7yg2PO07u8", "tags":""},
-{"title":"Loved By All: The Story of Apa Sherpa", "year":"2018", "lengthInMin":"14", "description":"Every spring the summit of Mount Everest drews people from around the world. But in its shadow live the Sherpa, a resilient, religious people, who, despite the riches surrounding the highest peak on earth, are still quite poor and uneducated. A child of the Khumbu, Apa Sherpa climbed Everest 21 times. Pulled away at the age of 12 to work as a high altitude porter, like so many others, he would leave his family for months, risking his life on the mountain. Through his work at the Apa Sherpa Foundation, he aims to create a different future for his people. ", "url":"https://vimeo.com/270499256", "tags":""},
-{"title":"Shepherdess of The Glaciers", "year":"2016", "lengthInMin":"74", "description":"A beautiful cultural film that will sweep you away to an exotic far away location. Way up in Ladakh—at 16,500 feet, somewhere in the Gya-Miru Valley—lives a shepherdess with a flock of 250 sheep and pashmina goats on a huge deserted rock-strewn mountain. They are her only companions, except for the troubling presence of wolves and a snow leopard; her only link with the outside world is a little transistor... ", "url":"https://vimeo.com/channels/lesfilmsdeladecouverte/147091400", "tags":""},
-{"title":"Artifishal | The Fight to Save Wild Salmon", "year":"2019", "lengthInMin":"80", "description":"Artifishal is a film about people, rivers, and the fight for the future of wild fish and the environment that supports them. It explores wild salmon’s slide toward extinction, threats posed by fish hatcheries and fish farms, and our continued loss of faith in nature. ", "url":"https://www.youtube.com/watch?v=XdNJ0JAwT7I", "tags":""},
-{"title":"The Last Honey Hunter", "year":"2017", "lengthInMin":"36", "description":"In the steep mountain jungles of Nepal’s Hongu river valley, members of the isolated Kulung culture have risked their lives for generations scaling dangerous cliffs to collect wild and toxic honey. Deep and dark, the film glides through a misty world of forest spirits, dreams, and woodsmoke to share the story of the leader of the harvest and his final journey. ", "url":"https://vimeo.com/201695311", "tags":""},
-{"title":"The Frozen Road", "year":"2018", "lengthInMin":"25", "description":"Self-shot and edited whilst cycling around the world, this short film charts my winter journey into the Canadian Arctic as I completed my bike ride up the American continent. Compelled by Jack London’s assertion, that ‘any man who is a man can travel alone’, I sought an adventure of perfect solitude. Yet, as I came to realise, the harsh truths of travelling in such a formidable environment were a long way from the romantic images I’d held of this land. The Frozen Road is an honest reflection on my solo trip; of the wonder, terror and frustration I experienced when riding through the unforgiving emptiness of one of the world's 'last great wildernesses'. ", "url":"https://vimeo.com/252863313", "tags":""},
-{"title":"Blood Road", "year":"2017", "lengthInMin":"92", "description":"Rebecca Rusch’s search for connection. In this award-winning film, Rebecca Rusche cycles 1,930km along the Ho Chi Minh Trail through the jungles of Vietnam. The goal is to reach the site where her father, a US Air Force pilot, was shot down in Laos more than 40 years ago. ", "url":"https://www.redbull.com/int-en/films/blood-road", "tags":""},
-{"title":"Billder", "year":"2018", "lengthInMin":"6", "description":"Bill McLane is a trail builder. What started as a hobby between forest firefighting seasons became a career which has helped shape the mountain bike scene on Vancouver Island. Billder takes a closer look at the craft and dedication behind the trails we sometimes take for granted. It shows that when people pursue their passion, we're all better for it", "url":"https://vimeo.com/378218839", "tags":""},
-{"title":"Up To Speed", "year":"2018", "lengthInMin":"20", "description":"Some climbers perceive speed climbing as a fringe activity, but its inclusion in the 2020 Olympics means it’s now being taken seriously. Film-maker Zachary Barr takes an in-depth look into the sport. ", "url":"https://www.redbull.com/int-en/episodes/up-to-speed-reel-rock-s05-e01", "tags":""},
-{"title":"Okpilik - Inuit Nunangat Taimaannganit", "year":"2019", "lengthInMin":"4", "description":"Mary Kudlak talks about fishing in Okpilik lake near Ulukhaktok as part of the Inuit Nunangat Taimannganit video project. ", "url":"https://www.itk.ca/inuit-nunangat-taimannganit/video_archive/okpilik/", "tags":""},
-{"title":"Dark Peak Fell Runners", "year":"2019", "lengthInMin":"17", "description":"The Dark Peak Fell Runners base themselves in Sheffield, but their playground is the Peak District National Park where they weave tracks through the fields, peat bogs and rocky outcrops to create a tapestry of eccentricity, endeavour and endurance. ", "url":"https://www.youtube.com/watch?v=QwTp28jbTP8", "tags":""},
-{"title":"Chasing a Trace", "year":"2019", "lengthInMin":"21", "description":"This is a love story between a badass woman scientist and one of the most elusive wild animals on earth set in the snowy high mountains of Western Canada. ", "url":"https://www.youtube.com/watch?v=yQN16cJ4mLk", "tags":""},
-{"title":"Climb Your Dreams", "year":"2019", "lengthInMin":"2", "description":"The rush of life in the city inspires a dream for an escape. The nature of reality is questioned by the contrast of what we do for a living. ", "url":"https://vimeo.com/362028659", "tags":""},
-{"title":"Full Moon", "year":"2019", "lengthInMin":"6", "description":"Closing lifts and the setting sun mark the end of the action for most skiers. But not for Max Kronech and Jochen Mesle. While ski towns fall asleep they head into the mountains to see them in a new light. ", "url":"https://vimeo.com/362028659", "tags":""},
-{"title":"Good Morning", "year":"2018", "lengthInMin":"4", "description":"Every day, skier Richard Permin falls into his mundane morning routine. Right after getting out of bed, he clicks on his skis and rides down the snow covered rooftops of Avoriaz. ", "url":"https://vimeo.com/305915054", "tags":""},
-{"title":"The Imaginary Line", "year":"2019", "lengthInMin":"10", "description":"In an act of political solidarity, a team from Mexico and the U.S.A assemble with the sole purpose of establishing a slackline that crosses the border between them. In a world that is constantly tearing us apart, they come together to cross an imaginary line and tell a different story. ", "url":"https://www.youtube.com/watch?v=dkG7koiNiq4", "tags":""},
-{"title":"Age of Ondra | Part One", "year":"2018", "lengthInMin":"47", "description":"On the heels of a historic 5.15d ascent, we follow climber Adam Ondra from his home in the Czech Republic, across Europe to North America, as he innovates new training methods, establishes upper echelon first ascents, and attempts to be the first person to send 5.15 on the first try.", "url":"https://www.redbull.com/int-en/episodes/age-of-ondra-part-1-reel-rock-s5-e2", "tags":""},
-{"title":"Age of Ondra | Part Two", "year":"2018", "lengthInMin":"47", "description":"On the heels of a historic 5.15d ascent, we follow climber Adam Ondra from his home in the Czech Republic, across Europe to North America, as he innovates new training methods, establishes upper echelon first ascents, and attempts to be the first person to send 5.15 on the first try.", "url":"https://www.redbull.com/int-en/episodes/age-of-ondra-part-2-reel-rock-s5-e3", "tags":""},
-{"title":"Age of Ondra | Part Three", "year":"2018", "lengthInMin":"47", "description":"On the heels of a historic 5.15d ascent, we follow climber Adam Ondra from his home in the Czech Republic, across Europe to North America, as he innovates new training methods, establishes upper echelon first ascents, and attempts to be the first person to send 5.15 on the first try.", "url":"https://www.redbull.com/int-en/episodes/age-of-ondra-part-3", "tags":""},
-{"title":"Thabang", "year":"2019", "lengthInMin":"13", "description":"Thabang Madiba somehow found his way into the world of trail running and in the last few years has become everyone’s favourite in the South African trail scene. ", "url":"https://www.youtube.com/watch?v=F0NR4Qqje4A", "tags":""},
-{"title":"The Redstone Pack", "year":"2018", "lengthInMin":"5", "description":"What began as an impromptu leap into the world of dog sledding, Aaron Natoniewski’s methodical approach to the sport and understanding of his dogs has inspired a team of sled hounds unlike any other. ", "url":"https://vimeo.com/293860988", "tags":""},
-{"title":"We Are Abel", "year":"2018", "lengthInMin":"8", "description":"We Are Abel features the story of a Gwich’in father who is standing against reckless plans to industrialize the Arctic Refuge and not only fight for his culture’s existence, but also for his son’s ability to know that culture fully. ", "url":"https://vimeo.com/341401643", "tags":""},
-{"title":"The River’s Call", "year":"2019", "lengthInMin":"8", "description":"The River’s Call follows seven kayakers through the deep canyons and challenging whitewater of the Rio Apurimac the farthest source of the Amazon in the heart of the Andes. ", "url":"https://vimeo.com/325319778", "tags":""},
-{"title":"The Ladakh Project", "year":"2019", "lengthInMin":"13", "description":"Seven days, three rivers, one woman. This is the story of Nouria Newman’s solo kayak adventure in the Indian Himalaya. ", "url":"https://www.redbull.com/int-en/ladakh-project-nouria-newman-kayaks-india-rivers-interactive-s t ory", "tags":""},
-{"title":"The Flip", "year":"2019", "lengthInMin":"3", "description":"French skydiver Remi Angeli must face his fears in order to explore new expressions of movement while BASE jumping in Mexico. On the other side of his fear he discovers life in its purest form. ", "url":"https://vimeo.com/390490875", "tags":""},
-{"title":"Kai Jones - Far Out", "year":"2018", "lengthInMin":"6", "description":"Eleven-year-old Kai Jones isn’t old enough to go to the movies alone or order a sandwich at the pub, but in the mountains age doesn’t matter. He is following in his family’s ski tracks...right into backflips and tricks off of cliffs. ", "url":"https://www.tetongravity.com/video/ski/11-year-old-skis-jackson-holes-gnarliest-terrain", "tags":""},
-{"title":"Every Mystery I’ve Lived", "year":"2019", "lengthInMin":"24", "description":"At the end of 2017, rookie slopestyle MTB rider Emil Johansson was on top of the world. In his first full season, he was crowned FMB World Tour champion as a teenager only for his world to crumble around him with a mystery illness. ", "url":"https://www.youtube.com/watch?v=SnicW-F52n4", "tags":""},
-{"title":"Eclipse", "year":"2015", "lengthInMin":"32", "description":"Photographer Reuben Krabbe is someone captivated by the solar eclipse, and so in March 2015 he set out to take a photo of a skier during this infrequent occurrence in the northern archipelago of Svalbard, Norway. The story of this demanding expedition was documented by Salomon in partnership with Switchback Entertainment and won Best Film: Snow Sports at the Banff Mountain Film Festival. ", "url":"http://tv.salomon.com/story/eclipse#overlay", "tags":""},
-{"title":"Charge", "year":"2019", "lengthInMin":"5", "description":"Four top freeskiers and a world champion drone pilot are dropped at Chatter Creek, BC for one week. Their instructions: charge as hard as you can every day. ", "url":"http://tv.salomon.com/story/charge#overlay", "tags":""},
-{"title":"Liv Along the Way", "year":"2018", "lengthInMin":"23", "description":"Since she first summited Mont Blanc as a teen, Liv Sansoz knew she would make her life in the mountains. She was twice crowned World Champion in sport climbing, and eventually expanded her professional horizons to mixed climbing, ski mountaineering, and base jumping. In 2017, at 40 years old, Liv set out from her base in Chamonix, France to attempt to climb all 82 4000m peaks in the European Alps in a single year. As she’s learned several times throughout her life, things don’t always go as planned. ", "url":"http://tv.salomon.com/channel/hiking-mountaineering#overlay/livalongtheway", "tags":""},
-{"title":"Frozen Mind", "year":"2018", "lengthInMin":"33", "description":"Together with his old friend Pierre Hourticq, snowboarder Victor de le Rue tries to write a new story in the iconic mountains near Chamonix. Frozen Mind is not just a freeride film, it is a story of friendship and a journey of discovery as the two men take unique paths in order to conquer the same objectives. ", "url":"https://www.youtube.com/watch?v=axNnKy-jfWw", "tags":""},
-{"title":"The 7 Stages of Blank", "year":"2019", "lengthInMin":"42", "description":"Blank Collective films takes you on a journey through The 7 Stages of Blank, a lighthearted look into the bond that develops around the sport of skiing. ", "url":"https://www.youtube.com/watch?v=bSK-f5ES0i4", "tags":""},
-{"title":"Circle of the Sun", "year":"2019", "lengthInMin":"5", "description":"Steep mountains, the ocean, the sun, and the aurora borealis. One rotation of the sun high in the Arctic on skis equals one day of magic. ", "url":"https://vimeo.com/344890300", "tags":""},
-{"title":"Safe Haven", "year":"2018", "lengthInMin":"8", "description":"Founded on the belief that everyone is welcome, Memphis Rox opened a climbing gym to be at the center of the city's revitalization. Watch and if you are interested to learn more about Memphis Rox. ", "url":"https://www.youtube.com/watch?v=uYjVzoxIkdI", "tags":""},
-{"title":"Camel Finds Water", "year":"2019", "lengthInMin":"8", "description":"Trevor found the hull of an abandoned fishing boat in a field. He brought it home and built it back to a sea-worthy state over the course of a summer. Then, he took it on its maiden voyage to British Columbia in search of waves. ", "url":"https://vimeo.com/328771728", "tags":""},
-{"title":"This Land", "year":"2019", "lengthInMin":"10", "description":"Runner and advocate Faith E. Briggs used to run through the streets of Brooklyn every morning. Now, she’s running 150 miles through three U.S. National Monuments that lay in the thick of the controversy around public lands. ", "url":"https://www.youtube.com/watch?v=X3dxCJK5BaQ&list=RDCMUC4qZJvaF8JKHFJzC_6lXWbg&start_radio=1&t=5", "tags":""},
-{"title":"Beneath the Ice", "year":"2019", "lengthInMin":"16", "description":"Canadian Will Gadd uses his unparalleled ice climbing skills and knowledge to lead a scientific exploration into uncharted territory inside of the Greenland ice sheet. ", "url":"https://www.redbull.com/ca-en/films/beneath-the-ice", "tags":""},
-{"title":"Aziza", "year":"2018", "lengthInMin":"6", "description":"Set in the streets of Bou Tharar and the wide, craggy valleys of the lower Atlas mountains, Aziza is the story of a young woman who has thrived in the world of ultra-running and how she has become a role model for other up-and-coming athletes in Morocco. ", "url":"https://vimeo.com/286846186", "tags":""},
-{"title":"Standing Man", "year":"2019", "lengthInMin":"13", "description":"Cyclist Payson McElveen attempts to break the current fastest known time on the grueling 160 km White Rim Road in Canyonlands National Park. ", "url":"https://www.youtube.com/watch?v=La8-Qqio0rU", "tags":""},
-{"title":"Eli", "year":"2019", "lengthInMin":"5", "description":"As a rancher growing up in the rugged northeast corner of the Navajo Nation with no electricity or running water, Eli Neztsosie learned through years of work what it meant to rely on discipline and endurance. Now he relies on these same skills, running long distances— striving every day, in his words, to be better than he was the day before. ", "url":"https://www.youtube.com/watch?v=l16tuTE99vA", "tags":""},
-{"title":"A Nordic Skater", "year":"2018", "lengthInMin":"5", "description":"A Nordic Skater is the very first film about this little known sport. It features Per Sollerman, a photographer who has been skating on frozen lakes and fjords for the past 10 years. During 6 captivating minutes, the viewer is transported to the region of Oslo to have a peek at a story of a man who uses every sense he has to travel on thin ice. ", "url":"https://vimeo.com/297673643", "tags":""},
-{"title":"Out on a Limb", "year":"2019", "lengthInMin":"21", "description":"Engineer Kai Lin teams up with climber Craig DeMartino to design a badass prosthetic foot, which if they succeed won’t just level the playing field, but will dish up, if not superpowers, then a real sense of empowerment, which is almost the same thing. ", "url":"https://mojagear.com/videos/2019/08/16/limb-prosthetic-climbing-craig-demartino/", "tags":""},
-{"title":"Spirit", "year":"2019", "lengthInMin":"20", "description":"An intimate story of longing and belonging in India’s sacred mountains. Spirit explores what it takes to make a home in a remote community in the thralls of change. ", "url":"https://vimeo.com/369505425", "tags":""},
-{"title":"Solstice", "year":"2019", "lengthInMin":"4", "description":"A skier’s tribute to the shortest day of the year when the sun arcs low over the horizon and the ice crystals linger in the air. ", "url":"https://www.youtube.com/watch?v=JTPovRc6OoM", "tags":""},
-{"title":"Narics", "year":"2019", "lengthInMin":"19", "description":"In the midst of Kosovo, an area that’s been haunted by war and ethical conflicts, Elias Elhardt discovers the small ski resort Brezovica.Snowboard enthusiast Hamdi is one of the locals that now wants to breathe new life into this special place. He guides Elias through this forgotten world and reflects on the question, how a future can be built if the past still weighs so heavily. ", "url":"https://vimeo.com/383514704", "tags":""},
-{"title":"Valley of the Moon", "year":"2018", "lengthInMin":"21", "description":"Valley of the Moon explores the importance of climbing as a way to cross cultural barriers, build friendship and chase adventure in one of the most breathtaking regions of the earth. ", "url":"https://vimeo.com/299057800", "tags":""},
-{"title":"The Legend of Rafael", "year":"2019", "lengthInMin":"7", "description":"A beautiful story about the power of two wheels and a community built through bicycling. After a devastating breakup, Rafael finds solitude and restoration on the open road, pedaling his way to emotional health from Mexico City to northern Colorado. With just $500 to his name, he spearheads a revolution to help the underprivileged members of his new neighborhood the best way he knows how—repairing their bicycles. ", "url":"https://vimeo.com/333580941", "tags":""},
-{"title":"Over Time - Sammy C", "year":"2019", "lengthInMin":"7", "description":"Filmed purley in the heart of the BC backcountry, Over Time - Sammy C features the best shots from a full winter with pro skier Sammy Carlson. ", "url":"https://www.youtube.com/watch?v=KVXJ2E41_xE", "tags":""},
-{"title":"Wallmapu", "year":"2018", "lengthInMin":"6", "description":"The Pehuenche people of present-day Chile speak Mapudungun: ‘the language of the land.’ This land, their universe, is known as Wallmapu. Two skiers enter, into a breathtaking creation of ancient Araucaria trees, looming volcanoes, and windblown snow. ", "url":"https://vimeo.com/306295979", "tags":""},
-{"title":"Chasing the Sublime", "year":"2018", "lengthInMin":"6", "description":"Why do we put ourselves into the path of discomfort and risk? What drives us to get too cold and too tired, to battle with fear, in the name of adventure? Follow the originators of The Outdoor Swimming Society, ‘swim twins’ Kate Rew and Kari Furre, in this hauntingly beautiful glimpse at the physicality of UK cold water swimming, as two friends set out to chase the sublime. ", "url":"https://vimeo.com/292071219", "tags":""},
-{"title":"The Running Pastor", "year":"2019", "lengthInMin":"8", "description":"Sverri is a local Pastor and avid runner who uses his time on the trails to work through not only his own personal conflicts, but the conflicts of others he often is burdened with. ", "url":"https://vimeo.com/340472874", "tags":""},
-{"title":"BMX Nigeria", "year":"2019", "lengthInMin":"13", "description":"BMX street is one of the most frequently evolving sports in the world and, in Nigeria, a group of local riders are reinventing riding at a grassroots level. ", "url":"https://www.youtube.com/watch?v=UDZpsjtfYuY", "tags":""},
-{"title":"The Shepherdess", "year":"2018", "lengthInMin":"6", "description":"A brutal drought is gripping the Southwest and the Navajo reservation especially hard, threatening traditional shepherds and a way of life going back generations. ", "url":"https://www.katiefalkenberg.com/#/shepherdess/", "tags":""},
-{"title":"Silence", "year":"2018", "lengthInMin":"18", "description":"What does it take to climb the world’s first 9c? Let’s find out in Silence, a movie by Bernardo Giménez. It shows what preceded the afternoon of September 3, 2017 when Adam Ondra, a professional rock climber and currently one of the best climbers in the world, made a little piece of climbing history when he climbed his project in the spectacular Hanshelleren Cave in Norway. The route, later named Silence, received a new grade of 9c and became the hardest route in the world. ", "url":"https://www.youtube.com/watch?v=ZRTNHDd0gL8", "tags":""},
-{"title":"Ice & Palms", "year":"2018", "lengthInMin":"32", "description":"The documentary follows skiers Jochen Mesle and Max Kroneck on their most ambitious ski tour yet. A 100% self powered adventure from southern Germany all the way to the mediterranean sea. ", "url":"https://vimeo.com/319200353", "tags":""},
-{"title":"Sacred Strides", "year":"2018", "lengthInMin":"12", "description":"Bears Ears National Monument is a public land under threat. In 2018, a group of Native American tribes put their differences aside and ran 1280 km to Bears Ears to send a message of unity. ", "url":"https://vimeo.com/283490560", "tags":""},
-{"title":"Hourya", "year":"2018", "lengthInMin":"10", "description":"Fly Above the ancient sands of the Moroccan coastline. Let your spirit soar with lightness and the feeling of Hourya. ", "url":"https://vimeo.com/289029793", "tags":""},
-{"title":"FAST HORSE", "year":"2018", "lengthInMin":"14", "description":"FAST HORSE follows the return of the Blackfoot bareback horse racing tradition in a new form: the Indian Relay. Siksika horseman Allison Red Crow struggles to build a team with second-hand horses and a new jockey, Cody Big Tobacco, to take on the best riders in the Blackfoot Confederacy at the Calgary Stampede. ", "url":"https://vimeo.com/358170802", "tags":""},
-{"title":"The Moment", "year":"2017", "lengthInMin":"74", "description":"In the backwoods of British Columbia, three small but dedicated crews of adventure seekers were quietly changing the course of a sport and carving their paths in history. The Moment captures the birth and success of the original freeride mountain bike movement. ", "url":"https://www.redbull.com/int-en/films/the-moment", "tags":""},
-{"title":"For the Love of Mary", "year":"2018", "lengthInMin":"6", "description":"When 97-year-old runner George Etzweiler dons his lucky ancient green running shorts, he’s not just running to the summit of Mt Washington, he carries something special with him: the memory of his late wife of 68 years. ", "url":"https://vimeo.com/273611679", "tags":""},
-{"title":"Break on Through", "year":"2017", "lengthInMin":"26", "description":"Margo Hayes, a little-known 19 year old from Boulder Colorado, has moved to Europe to train and climb with the goal of succeeding on two of the most iconic 5.15s in France and Spain. But by pushing her body and mind to the absolute limit, she risks injury and failure in her quest to be the first. ", "url":"https://www.redbull.com/int-en/episodes/break-on-through-reel-rock-s04-e01", "tags":""},
-{"title":"Life of Glide", "year":"2017", "lengthInMin":"16", "description":"Big Mountain rider Jeremy Jones dissects his lifelong passion for the simple sacred feeling he calls “The Glide.”", "url":"https://www.youtube.com/watch?v=edYSL913rHI", "tags":""},
-{"title":"Brothers of Climbing", "year":"2017", "lengthInMin":"7", "description":"How can you be what you can’t see? Mikhail Martin, co-founder of Brothers of Climbing said, “I literally typed, ‘Are there black climbers?’ in Google ... someone said, ‘black people don’t climb.'”", "url":"https://www.youtube.com/watch?v=7LWq5s-s4pY", "tags":""},
-{"title":"Ride of the Dead", "year":"2017", "lengthInMin":"12", "description":"Enter into the world of Oaxacan mountain bike culture during Mexico’s famous annual celebration known as Dia De Los Muertos. ", "url":"https://www.youtube.com/watch?v=BLXR86vHUNU", "tags":""},
-{"title":"Holocene", "year":"2018", "lengthInMin":"12", "description":"Join two riders from Japan as they dive into the cultural history of the dolomites clattering up Via Ferratas and shredding down couloirs along the way. ", "url":"https://www.youtube.com/watch?v=n8Yqf9Mn_ZY", "tags":""},
-{"title":"Beautiful Idiot", "year":"2018", "lengthInMin":"15", "description":"Beautiful Idiot takes you on a ride through the mindset and motivations of those who feel driven to pursue greatness, how it can feel to fall short, and the consequences of reaching a lofty goal when the struggle to get there has defined you for so long. Featuring professional freeride mountain bike rider Brett Rheeder. ", "url":"https://vimeo.com/282402702", "tags":""},
-{"title":"Perspectives | India", "year":"2018", "lengthInMin":"5", "description":"Professional mountain bike athlete and artist Micayla Gatto adventures to the Indian Himalayas to experience the culture with her unique artistic perception. ", "url":"https://freehubmag.com/videos/perspectives-india", "tags":""},
-{"title":"Inside the Indus - A Pakistani Odyssey", "year":"2017", "lengthInMin":"27", "description":"An international team of kayakers heads to Pakistan to attempt a descent of the fabled Rondu Gorge, on the Indus river. Hidden behind a wall of political and security factors meant it had been eight years since the last expedition had ventured into the gorge. ", "url":"https://www.facebook.com/twelveproductions/videos/inside-the-indus-a-pakistani-odyssey/22 4 8154562075004/", "tags":""},
-{"title":"Skier Vs Drone", "year":"2018", "lengthInMin":"4", "description":"2018 Olympic Bronze Medalist skier racer, Victor Muffat-Jeandet, faces off against 2x World Drone Racing Champion, Jordan Temkin, in a dual GS race to see who is the fastest down the mountain. ", "url":"https://www.youtube.com/watch?v=Wn_Fx2MwCB0", "tags":""},
-{"title":"The Faction Collective Presents: La Grave", "year":"2018", "lengthInMin":"17", "description":"Sam Anthamatten and Johnny Collinson travel to La Grave to push the limits of steep skiing and discover what makes La Grave so unique - a mythic freeride location where time stops. ", "url":"https://www.youtube.com/watch?v=QkinG08IoKk", "tags":""},
-{"title":"Children of the Columbia: A Skier’s Odyssey", "year":"2018", "lengthInMin":"20", "description":"A cultural ski journey up the historically-charged waters of the Columbia River in interior British Columbia. ", "url":"https://vimeo.com/330851467", "tags":""},
-{"title":"The Sky Piercer", "year":"2018", "lengthInMin":"44", "description":"Snow athletes Sam Smoothy, Xavier De Le Rue, Nadine Wallner and Fraser McDougall take on the challenge of skiing down New Zealand’s highest mountain, the notorious Mount Cook (Aoraki). Will extreme weather and icy conditions defeat them? ", "url":"https://www.redbull.com/int-en/films/the-sky-piercer-2019-23-10", "tags":""},
-{"title":"The Lorax Project", "year":"2018", "lengthInMin":"35", "description":"Six friends embark on a determined quest to climb and then BASE jump ‘The Lorax’, a formidable climb in remote western Tasmania. Surrounded by some of the most pristine wilderness in all of Australia, they contend with extreme weather and rugged terrain, relying on each other’s skills and a bit of humour to reach their goal. ", "url":"https://vimeo.com/310331133", "tags":""},
-{"title":"Escape", "year":"2018", "lengthInMin":"8", "description":"JaBig, a Montreal-based DJ, buys a bike on a whim and decides to attempt to beat the record for the longest continuous bike ride in a single country. What’s more, he’ll ride a single-speed, fixed-gear bicycle and finish in the winter, approaching the Arctic Ocean by way of Canada’s northernmost continental hamlet, Tuktoyaktuk in the Northwest Territories. ", "url":"https://www.mec.ca/en/explore/mec-documentary-escape", "tags":""},
-{"title":"Facing Sunrise", "year":"2017", "lengthInMin":"8", "description":"While dealing with one of the darkest times of her life, processing family trauma and recovering from injury, Azzah overhears a conversation around the question, “what do you want to do before you die?” Inspired and energized, she rushes home and begins her bucket list. Although she has never seen herself as much of an adventurer, she realizes she’s capable of more than she ever imagined. ", "url":"https://www.mec.ca/en/explore/facing-sunrise", "tags":""},
-{"title":"Ascending Afghanistan *warning graphic content", "year":"2016", "lengthInMin":"44", "description":"Follow the first female Afghan mountaineering team as they navigate their first expedition and fight for recognition as athletes amongst their country, culture, and families. ", "url":"https://video.vice.com/en_us/video/vice-impact-ascending-afghanistan-rising-women/587674b f f0d3f0d206a3cec6?latest=1", "tags":""},
-{"title":"Brotherhood of Skiing", "year":"2018", "lengthInMin":"10", "description":"Since 1973, the National Brotherhood of Skiers has overcome barriers by bringing soul, smiles and a party to the mountain. ", "url":"https://vimeo.com/318824416", "tags":""},
-{"title":"How to Run 100 Miles", "year":"2018", "lengthInMin":"28", "description":"The odds were stacked against Jayson Sime early in life: poverty, homelessness, dyslexia, bullying. But he learned to fight. In 2017, he entered his first 100-mile mountain ultramarathon, betting on his lifelong resilience to carry him to the finish line. ", "url":"https://www.youtube.com/watch?v=iC7Lh4opLsc", "tags":""},
-{"title":"Blue Heart", "year":"2018", "lengthInMin":"44", "description":"The Balkan Peninsula is home to the last wild rivers in Europe. However, a deluge of more than 3,000 proposed hydropower developments threaten to destroy the culture and ecology of this forgotten region. Blue Heart, now in its first digital release, documents the battle for the largest undammed river in Europe, Albania’s Vjosa, the effort to save the endangered Balkan lynx in Macedonia, and the women of Kruščica, Bosnia and Herzegovina, who are spearheading a months-long, 24/7 protest to protect their community’s only source of drinking water. ", "url":"https://www.youtube.com/watch?v=OhmHByZ0Xd8", "tags":""},
-{"title":"Carving Landscapes", "year":"2018", "lengthInMin":"6", "description":"Through the inspiring legacy of Mary Vaux we will venture onto the Illecillewaet Glacier, reenacting her research and her mountain travel in the restriction of Victorian dresses. ", "url":"https://vimeo.com/299359466", "tags":""},
-{"title":"The Passage", "year":"2018", "lengthInMin":"25", "description":"In 1974, my 20-year-old parents and uncle Andy built their own canoes, launched them into the Pacific, and became some of the first people in modern history to canoe from Washington to Alaska up the Inside Passage. My brother and I grew up paddling those wooden canoes in the Virginia rivers and the 1974 adventure became a legend in our family - shaping who we’ve become, how we view our parents, and how our parents view themselves. In the summer of Curated by Lianne Caron 2017, we renovated those canoes and with our aging parents completed their 1974 journey. The Passage is a story about growing up, growing old, and the wild places that define us. ", "url":"https://vimeo.com/272632802", "tags":""},
-{"title":"Grizzly Country", "year":"2018", "lengthInMin":"12", "description":"After serving in the Vietnam War, author and eco-warrior Doug Peacock spent years alone in the Wyoming and Montana wilderness observing grizzly bears. This time in the wild changed the course of his life. With the protection of Yellowstone grizzlies now under threat, Peacock reflects on the importance of habitat and why he continues to fight for wild causes. ", "url":"https://vimeo.com/300829054", "tags":""},
-{"title":"The Botanist", "year":"2016", "lengthInMin":"20", "description":"After the fall of the Soviet Union, Tajikistan, a former Soviet Socialist Republic, plunged into a devastating civil war. A famine struck the mountainous region of the Pamir where Raïmberdi, a passionate and ingenious botanist, built his own hydroelectric station to help his family survive through the crisis. ", "url":"https://vimeo.com/267165412", "tags":""},
-{"title":"Surviving the Outback", "year":"2018", "lengthInMin":"57", "description":"Could you survive alone across hundreds of kilometers of remote outback for a whole month, trekking and sailing on a makeshift raft, with nothing but a time capsule of antique stuff from 1932? Mike wasn’t sure he could pull it off either! ", "url":"https://tubitv.com/movies/497254/surviving_the_outback", "tags":""},
-{"title":"The Mirnavator", "year":"2017", "lengthInMin":"11", "description":"Ultra-runners overcome obstacles on every trail. In this film, Force of Nature Mirna Valerio overcomes the negative voices that don’t believe she belongs in the sport. ", "url":"https://www.youtube.com/watch?v=c5-CSQcYeXk", "tags":""},
-{"title":"Ski Photographer", "year":"2018", "lengthInMin":"9", "description":"Drawn to the mountains in search of the ski bum lifestyle, Oskar Enander had no intention of ever becoming a photographer. Is his affinity for cold stark places driven by his color blindness? Or is it place that has formed his aesthetic? ", "url":"https://vimeo.com/300544856", "tags":""},
-{"title":"My Mom Vala", "year":"2017", "lengthInMin":"10", "description":"Life has a way of putting us where we need to be. For Vala, that’s in both Greenland – where she works at her family’s fishing lodge – and Reykjavík, where she teaches her daughter how to do it all on her own, too. ", "url":"https://www.youtube.com/watch?v=ERjQ7hcVxus", "tags":""},
-{"title":"AMO", "year":"2017", "lengthInMin":"7", "description":"Amo; in the native Rapa Nui Language means, to carry on ones shoulders. Easter Island is a place known the world across in myth and legend, but the people who call it home and the unique culture that they embody is often overlooked as the most valuable piece of the islands estranged story. In this short film, Heu Rapa Haoa, native born Rapa Nui and one of 800 remaining people left in the world who speak his native tongue fluently, tells his story of the island, the stone heads that brought Easter Island renowned, and in what he sees for his future and in that the future of his people the culture that defines them. ", "url":"https://vimeo.com/254442752", "tags":""},
-{"title":"Surface", "year":"2018", "lengthInMin":"7", "description":"In a photographic niche defined by familiar angles, Ben Thouard is driven by his desire to create something original in surf photography. ", "url":"https://www.youtube.com/watch?v=PeONe9teVWw", "tags":""},
-{"title":"The Frenchy", "year":"2018", "lengthInMin":"14", "description":"Jacques is an 82-year-old badass athlete, but the real story is how he inspires us with his contagious love of life, epic tales of survival and his ability to counter aging through laughter. ", "url":"https://www.youtube.com/watch?v=Dhfipv8LXRg", "tags":""},
-{"title":"Dreamride 3", "year":"2018", "lengthInMin":"6", "description":"Inspired by a Dr. Seuss narrative, this mountain bike film is sure to take you places like no other. ", "url":"https://vimeo.com/266377015", "tags":""},
-{"title":"Treeline", "year":"2018", "lengthInMin":"40", "description":"Through a cinematic exploration of three extraordinary tree communities, Treeline brings forests alive on screen, illuminating the reciprocal bond between humanity and nature - a relationship we can’t survive without - and asks what responsibility we have to protect the exceptional forests that remain. ", "url":"https://www.youtube.com/watch?v=YCEaYInJbos", "tags":""},
-{"title":"The Wolf Pack", "year":"2018", "lengthInMin":"12", "description":"The Braford-Lefebrve family lives to run and runs to live. Without cell phones or any modern worry, the wolf pack roams the mountains around Silverton CO. ", "url":"https://www.youtube.com/watch?v=I83E6jSHBs4", "tags":""},
-{"title":"Danny Macaskill: Danny Daycare", "year":"2019", "lengthInMin":"4", "description":"In his latest film Danny Macaskill takes on some child care the only way he knows how... by taking them for a wee bike ride around Scotland! ", "url":"https://www.youtube.com/watch?v=jj0CmnxuTaQ#action=share", "tags":""},
-{"title":"Electric Greg", "year":"2019", "lengthInMin":"20", "description":"Record-breaking mountain endurance athlete Greg Hill has never shied away from a goal. Through his time spent in the mountains, he's seen the effects of climate change first-hand and came to realize the way he was approaching the mountains was only making the problem worse. Two years ago he changed his approach and set out to climb 100 peaks without burning any fossil fuels. But the question is: will it make a difference? ", "url":"https://www.youtube.com/watch?v=lTL5l4CcBdE&feature=youtu.be", "tags":""},
-{"title":"Defiance", "year":"2019", "lengthInMin":"13", "description":"The path of progression is paved with acts of defiance. Leanne Pelosi, Jake Blauvelt, and Victor de Le Rue take the stage in British Columbia in a showcase of shred. ", "url":"https://www.youtube.com/watch?v=hUN-2fAgp0A&feature=youtu.be", "tags":""},
-{"title":"Par For The Course", "year":"2019", "lengthInMin":"4", "description":"Mirna Valerio takes on her first ever sky race at the 4th annual Broken Arrow Sky Race. Mirna navigated the rocky, exposed ridge lines, steep climbs and snow filled descents of Squaw Valley with an attitude unlike any other. ", "url":"https://www.youtube.com/watch?v=13kb8geCNNc&feature=youtu.be", "tags":""},
-{"title":"The Motivator", "year":"2018", "lengthInMin":"4", "description":"Filmmaker Aaron Hitchins turns his camera on the person who has motivated him to lead a life connected to the outdoors: his mother, Maureen. He wishes he were half as active as she is, and her commitment to rediscovering herself is inspirational. ", "url":"https://www.youtube.com/watch?v=xpLt8ThtOFc&feature=youtu.be", "tags":""}
-]}
+{
+    "movies": [
+        {
+            "description": "Kids and bikes; wherever you are in the world, they go together. The chaotic streets of Kathmandu may not seem like a typical breeding ground for world-class mountain bikers, but then again nothing is typical about Rajesh (RJ) Magar. Since learning to ride on a beat-up clunker, to becoming the four-time National Champion at age 21, RJ\u2019s story is one of boundless childhood dreaming and unstoppable determination, forged from junkyard scraps and tested on the rugged trails of the mighty Himalaya. ",
+            "lengthInMin": "20",
+            "tags": "",
+            "title": "RJ Ripper",
+            "url": "https://vimeo.com/275506930",
+            "year": "2018"
+        },
+        {
+            "description": "4Play is India\u2019s first adventure film company. A fun short film with a catchy song that will make you smile. Downhill Mountain Biking in Manali (India), Himalayan cultural nuances and a catchy Bollywood song that will make your foot tap and keep your eyes glued to the screen. ",
+            "lengthInMin": "5",
+            "tags": "",
+            "title": "BAWLI BOOCH - Downhill Biking India",
+            "url": "https://www.youtube.com/watch?v=PvExzRrB9Fg",
+            "year": "2017"
+        },
+        {
+            "description": "Experience fear and emotion alongside climber Jenny Abegg as she ascends Moonlight Buttress while fighting the self-criticism and doubt from that little voice we all have in the back of our heads. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "Speak To Me Softly",
+            "url": "https://rockandice.com/videos/climbing/speak-to-me-softly/?cn-reloaded=1",
+            "year": "2019"
+        },
+        {
+            "description": "In 2002, mountain bikers and entrepreneurs Jen Zeuner and Anne Keller moved to Fruita, Colorado, in search of cheap rent, world-class single track, and free time to ride. Over 15 years later, the two unconventional women have helped reshape one of the state\u2019s most conservative towns, uniting the community through advocacy, inclusivity, and damn good pizza. ",
+            "lengthInMin": "11",
+            "tags": "",
+            "title": "Life of Pie | Pizza and Bikes Can Fix Anything",
+            "url": "https://www.youtube.com/watch?v=z7yg2PO07u8",
+            "year": "2019"
+        },
+        {
+            "description": "Every spring the summit of Mount Everest drews people from around the world. But in its shadow live the Sherpa, a resilient, religious people, who, despite the riches surrounding the highest peak on earth, are still quite poor and uneducated. A child of the Khumbu, Apa Sherpa climbed Everest 21 times. Pulled away at the age of 12 to work as a high altitude porter, like so many others, he would leave his family for months, risking his life on the mountain. Through his work at the Apa Sherpa Foundation, he aims to create a different future for his people. ",
+            "lengthInMin": "14",
+            "tags": "",
+            "title": "Loved By All: The Story of Apa Sherpa",
+            "url": "https://vimeo.com/270499256",
+            "year": "2018"
+        },
+        {
+            "description": "A beautiful cultural film that will sweep you away to an exotic far away location. Way up in Ladakh\u2014at 16,500 feet, somewhere in the Gya-Miru Valley\u2014lives a shepherdess with a flock of 250 sheep and pashmina goats on a huge deserted rock-strewn mountain. They are her only companions, except for the troubling presence of wolves and a snow leopard; her only link with the outside world is a little transistor... ",
+            "lengthInMin": "74",
+            "tags": "",
+            "title": "Shepherdess of The Glaciers",
+            "url": "https://vimeo.com/channels/lesfilmsdeladecouverte/147091400",
+            "year": "2016"
+        },
+        {
+            "description": "Artifishal is a film about people, rivers, and the fight for the future of wild fish and the environment that supports them. It explores wild salmon\u2019s slide toward extinction, threats posed by fish hatcheries and fish farms, and our continued loss of faith in nature. ",
+            "lengthInMin": "80",
+            "tags": "",
+            "title": "Artifishal | The Fight to Save Wild Salmon",
+            "url": "https://www.youtube.com/watch?v=XdNJ0JAwT7I",
+            "year": "2019"
+        },
+        {
+            "description": "In the steep mountain jungles of Nepal\u2019s Hongu river valley, members of the isolated Kulung culture have risked their lives for generations scaling dangerous cliffs to collect wild and toxic honey. Deep and dark, the film glides through a misty world of forest spirits, dreams, and woodsmoke to share the story of the leader of the harvest and his final journey. ",
+            "lengthInMin": "36",
+            "tags": "",
+            "title": "The Last Honey Hunter",
+            "url": "https://vimeo.com/201695311",
+            "year": "2017"
+        },
+        {
+            "description": "Self-shot and edited whilst cycling around the world, this short film charts my winter journey into the Canadian Arctic as I completed my bike ride up the American continent. Compelled by Jack London\u2019s assertion, that \u2018any man who is a man can travel alone\u2019, I sought an adventure of perfect solitude. Yet, as I came to realise, the harsh truths of travelling in such a formidable environment were a long way from the romantic images I\u2019d held of this land. The Frozen Road is an honest reflection on my solo trip; of the wonder, terror and frustration I experienced when riding through the unforgiving emptiness of one of the world's 'last great wildernesses'. ",
+            "lengthInMin": "25",
+            "tags": "",
+            "title": "The Frozen Road",
+            "url": "https://vimeo.com/252863313",
+            "year": "2018"
+        },
+        {
+            "description": "Rebecca Rusch\u2019s search for connection. In this award-winning film, Rebecca Rusche cycles 1,930km along the Ho Chi Minh Trail through the jungles of Vietnam. The goal is to reach the site where her father, a US Air Force pilot, was shot down in Laos more than 40 years ago. ",
+            "lengthInMin": "92",
+            "tags": "",
+            "title": "Blood Road",
+            "url": "https://www.redbull.com/int-en/films/blood-road",
+            "year": "2017"
+        },
+        {
+            "description": "Bill McLane is a trail builder. What started as a hobby between forest firefighting seasons became a career which has helped shape the mountain bike scene on Vancouver Island. Billder takes a closer look at the craft and dedication behind the trails we sometimes take for granted. It shows that when people pursue their passion, we're all better for it",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "Billder",
+            "url": "https://vimeo.com/378218839",
+            "year": "2018"
+        },
+        {
+            "description": "Some climbers perceive speed climbing as a fringe activity, but its inclusion in the 2020 Olympics means it\u2019s now being taken seriously. Film-maker Zachary Barr takes an in-depth look into the sport. ",
+            "lengthInMin": "20",
+            "tags": "",
+            "title": "Up To Speed",
+            "url": "https://www.redbull.com/int-en/episodes/up-to-speed-reel-rock-s05-e01",
+            "year": "2018"
+        },
+        {
+            "description": "Mary Kudlak talks about fishing in Okpilik lake near Ulukhaktok as part of the Inuit Nunangat Taimannganit video project. ",
+            "lengthInMin": "4",
+            "tags": "",
+            "title": "Okpilik - Inuit Nunangat Taimaannganit",
+            "url": "https://www.itk.ca/inuit-nunangat-taimannganit/video_archive/okpilik/",
+            "year": "2019"
+        },
+        {
+            "description": "The Dark Peak Fell Runners base themselves in Sheffield, but their playground is the Peak District National Park where they weave tracks through the fields, peat bogs and rocky outcrops to create a tapestry of eccentricity, endeavour and endurance. ",
+            "lengthInMin": "17",
+            "tags": "",
+            "title": "Dark Peak Fell Runners",
+            "url": "https://www.youtube.com/watch?v=QwTp28jbTP8",
+            "year": "2019"
+        },
+        {
+            "description": "This is a love story between a badass woman scientist and one of the most elusive wild animals on earth set in the snowy high mountains of Western Canada. ",
+            "lengthInMin": "21",
+            "tags": "",
+            "title": "Chasing a Trace",
+            "url": "https://www.youtube.com/watch?v=yQN16cJ4mLk",
+            "year": "2019"
+        },
+        {
+            "description": "The rush of life in the city inspires a dream for an escape. The nature of reality is questioned by the contrast of what we do for a living. ",
+            "lengthInMin": "2",
+            "tags": "",
+            "title": "Climb Your Dreams",
+            "url": "https://vimeo.com/362028659",
+            "year": "2019"
+        },
+        {
+            "description": "Closing lifts and the setting sun mark the end of the action for most skiers. But not for Max Kronech and Jochen Mesle. While ski towns fall asleep they head into the mountains to see them in a new light. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "Full Moon",
+            "url": "https://vimeo.com/362028659",
+            "year": "2019"
+        },
+        {
+            "description": "Every day, skier Richard Permin falls into his mundane morning routine. Right after getting out of bed, he clicks on his skis and rides down the snow covered rooftops of Avoriaz. ",
+            "lengthInMin": "4",
+            "tags": "",
+            "title": "Good Morning",
+            "url": "https://vimeo.com/305915054",
+            "year": "2018"
+        },
+        {
+            "description": "In an act of political solidarity, a team from Mexico and the U.S.A assemble with the sole purpose of establishing a slackline that crosses the border between them. In a world that is constantly tearing us apart, they come together to cross an imaginary line and tell a different story. ",
+            "lengthInMin": "10",
+            "tags": "",
+            "title": "The Imaginary Line",
+            "url": "https://www.youtube.com/watch?v=dkG7koiNiq4",
+            "year": "2019"
+        },
+        {
+            "description": "On the heels of a historic 5.15d ascent, we follow climber Adam Ondra from his home in the Czech Republic, across Europe to North America, as he innovates new training methods, establishes upper echelon first ascents, and attempts to be the first person to send 5.15 on the first try.",
+            "lengthInMin": "47",
+            "tags": "",
+            "title": "Age of Ondra | Part One",
+            "url": "https://www.redbull.com/int-en/episodes/age-of-ondra-part-1-reel-rock-s5-e2",
+            "year": "2018"
+        },
+        {
+            "description": "On the heels of a historic 5.15d ascent, we follow climber Adam Ondra from his home in the Czech Republic, across Europe to North America, as he innovates new training methods, establishes upper echelon first ascents, and attempts to be the first person to send 5.15 on the first try.",
+            "lengthInMin": "47",
+            "tags": "",
+            "title": "Age of Ondra | Part Two",
+            "url": "https://www.redbull.com/int-en/episodes/age-of-ondra-part-2-reel-rock-s5-e3",
+            "year": "2018"
+        },
+        {
+            "description": "On the heels of a historic 5.15d ascent, we follow climber Adam Ondra from his home in the Czech Republic, across Europe to North America, as he innovates new training methods, establishes upper echelon first ascents, and attempts to be the first person to send 5.15 on the first try.",
+            "lengthInMin": "47",
+            "tags": "",
+            "title": "Age of Ondra | Part Three",
+            "url": "https://www.redbull.com/int-en/episodes/age-of-ondra-part-3",
+            "year": "2018"
+        },
+        {
+            "description": "Thabang Madiba somehow found his way into the world of trail running and in the last few years has become everyone\u2019s favourite in the South African trail scene. ",
+            "lengthInMin": "13",
+            "tags": "",
+            "title": "Thabang",
+            "url": "https://www.youtube.com/watch?v=F0NR4Qqje4A",
+            "year": "2019"
+        },
+        {
+            "description": "What began as an impromptu leap into the world of dog sledding, Aaron Natoniewski\u2019s methodical approach to the sport and understanding of his dogs has inspired a team of sled hounds unlike any other. ",
+            "lengthInMin": "5",
+            "tags": "",
+            "title": "The Redstone Pack",
+            "url": "https://vimeo.com/293860988",
+            "year": "2018"
+        },
+        {
+            "description": "We Are Abel features the story of a Gwich\u2019in father who is standing against reckless plans to industrialize the Arctic Refuge and not only fight for his culture\u2019s existence, but also for his son\u2019s ability to know that culture fully. ",
+            "lengthInMin": "8",
+            "tags": "",
+            "title": "We Are Abel",
+            "url": "https://vimeo.com/341401643",
+            "year": "2018"
+        },
+        {
+            "description": "The River\u2019s Call follows seven kayakers through the deep canyons and challenging whitewater of the Rio Apurimac the farthest source of the Amazon in the heart of the Andes. ",
+            "lengthInMin": "8",
+            "tags": "",
+            "title": "The River\u2019s Call",
+            "url": "https://vimeo.com/325319778",
+            "year": "2019"
+        },
+        {
+            "description": "Seven days, three rivers, one woman. This is the story of Nouria Newman\u2019s solo kayak adventure in the Indian Himalaya. ",
+            "lengthInMin": "13",
+            "tags": "",
+            "title": "The Ladakh Project",
+            "url": "https://www.redbull.com/int-en/ladakh-project-nouria-newman-kayaks-india-rivers-interactive-s t ory",
+            "year": "2019"
+        },
+        {
+            "description": "French skydiver Remi Angeli must face his fears in order to explore new expressions of movement while BASE jumping in Mexico. On the other side of his fear he discovers life in its purest form. ",
+            "lengthInMin": "3",
+            "tags": "",
+            "title": "The Flip",
+            "url": "https://vimeo.com/390490875",
+            "year": "2019"
+        },
+        {
+            "description": "Eleven-year-old Kai Jones isn\u2019t old enough to go to the movies alone or order a sandwich at the pub, but in the mountains age doesn\u2019t matter. He is following in his family\u2019s ski tracks...right into backflips and tricks off of cliffs. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "Kai Jones - Far Out",
+            "url": "https://www.tetongravity.com/video/ski/11-year-old-skis-jackson-holes-gnarliest-terrain",
+            "year": "2018"
+        },
+        {
+            "description": "At the end of 2017, rookie slopestyle MTB rider Emil Johansson was on top of the world. In his first full season, he was crowned FMB World Tour champion as a teenager only for his world to crumble around him with a mystery illness. ",
+            "lengthInMin": "24",
+            "tags": "",
+            "title": "Every Mystery I\u2019ve Lived",
+            "url": "https://www.youtube.com/watch?v=SnicW-F52n4",
+            "year": "2019"
+        },
+        {
+            "description": "Photographer Reuben Krabbe is someone captivated by the solar eclipse, and so in March 2015 he set out to take a photo of a skier during this infrequent occurrence in the northern archipelago of Svalbard, Norway. The story of this demanding expedition was documented by Salomon in partnership with Switchback Entertainment and won Best Film: Snow Sports at the Banff Mountain Film Festival. ",
+            "lengthInMin": "32",
+            "tags": "",
+            "title": "Eclipse",
+            "url": "http://tv.salomon.com/story/eclipse#overlay",
+            "year": "2015"
+        },
+        {
+            "description": "Four top freeskiers and a world champion drone pilot are dropped at Chatter Creek, BC for one week. Their instructions: charge as hard as you can every day. ",
+            "lengthInMin": "5",
+            "tags": "",
+            "title": "Charge",
+            "url": "http://tv.salomon.com/story/charge#overlay",
+            "year": "2019"
+        },
+        {
+            "description": "Since she first summited Mont Blanc as a teen, Liv Sansoz knew she would make her life in the mountains. She was twice crowned World Champion in sport climbing, and eventually expanded her professional horizons to mixed climbing, ski mountaineering, and base jumping. In 2017, at 40 years old, Liv set out from her base in Chamonix, France to attempt to climb all 82 4000m peaks in the European Alps in a single year. As she\u2019s learned several times throughout her life, things don\u2019t always go as planned. ",
+            "lengthInMin": "23",
+            "tags": "",
+            "title": "Liv Along the Way",
+            "url": "http://tv.salomon.com/channel/hiking-mountaineering#overlay/livalongtheway",
+            "year": "2018"
+        },
+        {
+            "description": "Together with his old friend Pierre Hourticq, snowboarder Victor de le Rue tries to write a new story in the iconic mountains near Chamonix. Frozen Mind is not just a freeride film, it is a story of friendship and a journey of discovery as the two men take unique paths in order to conquer the same objectives. ",
+            "lengthInMin": "33",
+            "tags": "",
+            "title": "Frozen Mind",
+            "url": "https://www.youtube.com/watch?v=axNnKy-jfWw",
+            "year": "2018"
+        },
+        {
+            "description": "Blank Collective films takes you on a journey through The 7 Stages of Blank, a lighthearted look into the bond that develops around the sport of skiing. ",
+            "lengthInMin": "42",
+            "tags": "",
+            "title": "The 7 Stages of Blank",
+            "url": "https://www.youtube.com/watch?v=bSK-f5ES0i4",
+            "year": "2019"
+        },
+        {
+            "description": "Steep mountains, the ocean, the sun, and the aurora borealis. One rotation of the sun high in the Arctic on skis equals one day of magic. ",
+            "lengthInMin": "5",
+            "tags": "",
+            "title": "Circle of the Sun",
+            "url": "https://vimeo.com/344890300",
+            "year": "2019"
+        },
+        {
+            "description": "Founded on the belief that everyone is welcome, Memphis Rox opened a climbing gym to be at the center of the city's revitalization. Watch and if you are interested to learn more about Memphis Rox. ",
+            "lengthInMin": "8",
+            "tags": "",
+            "title": "Safe Haven",
+            "url": "https://www.youtube.com/watch?v=uYjVzoxIkdI",
+            "year": "2018"
+        },
+        {
+            "description": "Trevor found the hull of an abandoned fishing boat in a field. He brought it home and built it back to a sea-worthy state over the course of a summer. Then, he took it on its maiden voyage to British Columbia in search of waves. ",
+            "lengthInMin": "8",
+            "tags": "",
+            "title": "Camel Finds Water",
+            "url": "https://vimeo.com/328771728",
+            "year": "2019"
+        },
+        {
+            "description": "Runner and advocate Faith E. Briggs used to run through the streets of Brooklyn every morning. Now, she\u2019s running 150 miles through three U.S. National Monuments that lay in the thick of the controversy around public lands. ",
+            "lengthInMin": "10",
+            "tags": "",
+            "title": "This Land",
+            "url": "https://www.youtube.com/watch?v=X3dxCJK5BaQ&list=RDCMUC4qZJvaF8JKHFJzC_6lXWbg&start_radio=1&t=5",
+            "year": "2019"
+        },
+        {
+            "description": "Canadian Will Gadd uses his unparalleled ice climbing skills and knowledge to lead a scientific exploration into uncharted territory inside of the Greenland ice sheet. ",
+            "lengthInMin": "16",
+            "tags": "",
+            "title": "Beneath the Ice",
+            "url": "https://www.redbull.com/ca-en/films/beneath-the-ice",
+            "year": "2019"
+        },
+        {
+            "description": "Set in the streets of Bou Tharar and the wide, craggy valleys of the lower Atlas mountains, Aziza is the story of a young woman who has thrived in the world of ultra-running and how she has become a role model for other up-and-coming athletes in Morocco. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "Aziza",
+            "url": "https://vimeo.com/286846186",
+            "year": "2018"
+        },
+        {
+            "description": "Cyclist Payson McElveen attempts to break the current fastest known time on the grueling 160 km White Rim Road in Canyonlands National Park. ",
+            "lengthInMin": "13",
+            "tags": "",
+            "title": "Standing Man",
+            "url": "https://www.youtube.com/watch?v=La8-Qqio0rU",
+            "year": "2019"
+        },
+        {
+            "description": "As a rancher growing up in the rugged northeast corner of the Navajo Nation with no electricity or running water, Eli Neztsosie learned through years of work what it meant to rely on discipline and endurance. Now he relies on these same skills, running long distances\u2014 striving every day, in his words, to be better than he was the day before. ",
+            "lengthInMin": "5",
+            "tags": "",
+            "title": "Eli",
+            "url": "https://www.youtube.com/watch?v=l16tuTE99vA",
+            "year": "2019"
+        },
+        {
+            "description": "A Nordic Skater is the very first film about this little known sport. It features Per Sollerman, a photographer who has been skating on frozen lakes and fjords for the past 10 years. During 6 captivating minutes, the viewer is transported to the region of Oslo to have a peek at a story of a man who uses every sense he has to travel on thin ice. ",
+            "lengthInMin": "5",
+            "tags": "",
+            "title": "A Nordic Skater",
+            "url": "https://vimeo.com/297673643",
+            "year": "2018"
+        },
+        {
+            "description": "Engineer Kai Lin teams up with climber Craig DeMartino to design a badass prosthetic foot, which if they succeed won\u2019t just level the playing field, but will dish up, if not superpowers, then a real sense of empowerment, which is almost the same thing. ",
+            "lengthInMin": "21",
+            "tags": "",
+            "title": "Out on a Limb",
+            "url": "https://mojagear.com/videos/2019/08/16/limb-prosthetic-climbing-craig-demartino/",
+            "year": "2019"
+        },
+        {
+            "description": "An intimate story of longing and belonging in India\u2019s sacred mountains. Spirit explores what it takes to make a home in a remote community in the thralls of change. ",
+            "lengthInMin": "20",
+            "tags": "",
+            "title": "Spirit",
+            "url": "https://vimeo.com/369505425",
+            "year": "2019"
+        },
+        {
+            "description": "A skier\u2019s tribute to the shortest day of the year when the sun arcs low over the horizon and the ice crystals linger in the air. ",
+            "lengthInMin": "4",
+            "tags": "",
+            "title": "Solstice",
+            "url": "https://www.youtube.com/watch?v=JTPovRc6OoM",
+            "year": "2019"
+        },
+        {
+            "description": "In the midst of Kosovo, an area that\u2019s been haunted by war and ethical conflicts, Elias Elhardt discovers the small ski resort Brezovica.Snowboard enthusiast Hamdi is one of the locals that now wants to breathe new life into this special place. He guides Elias through this forgotten world and reflects on the question, how a future can be built if the past still weighs so heavily. ",
+            "lengthInMin": "19",
+            "tags": "",
+            "title": "Narics",
+            "url": "https://vimeo.com/383514704",
+            "year": "2019"
+        },
+        {
+            "description": "Valley of the Moon explores the importance of climbing as a way to cross cultural barriers, build friendship and chase adventure in one of the most breathtaking regions of the earth. ",
+            "lengthInMin": "21",
+            "tags": "",
+            "title": "Valley of the Moon",
+            "url": "https://vimeo.com/299057800",
+            "year": "2018"
+        },
+        {
+            "description": "A beautiful story about the power of two wheels and a community built through bicycling. After a devastating breakup, Rafael finds solitude and restoration on the open road, pedaling his way to emotional health from Mexico City to northern Colorado. With just $500 to his name, he spearheads a revolution to help the underprivileged members of his new neighborhood the best way he knows how\u2014repairing their bicycles. ",
+            "lengthInMin": "7",
+            "tags": "",
+            "title": "The Legend of Rafael",
+            "url": "https://vimeo.com/333580941",
+            "year": "2019"
+        },
+        {
+            "description": "Filmed purley in the heart of the BC backcountry, Over Time - Sammy C features the best shots from a full winter with pro skier Sammy Carlson. ",
+            "lengthInMin": "7",
+            "tags": "",
+            "title": "Over Time - Sammy C",
+            "url": "https://www.youtube.com/watch?v=KVXJ2E41_xE",
+            "year": "2019"
+        },
+        {
+            "description": "The Pehuenche people of present-day Chile speak Mapudungun: \u2018the language of the land.\u2019 This land, their universe, is known as Wallmapu. Two skiers enter, into a breathtaking creation of ancient Araucaria trees, looming volcanoes, and windblown snow. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "Wallmapu",
+            "url": "https://vimeo.com/306295979",
+            "year": "2018"
+        },
+        {
+            "description": "Why do we put ourselves into the path of discomfort and risk? What drives us to get too cold and too tired, to battle with fear, in the name of adventure? Follow the originators of The Outdoor Swimming Society, \u2018swim twins\u2019 Kate Rew and Kari Furre, in this hauntingly beautiful glimpse at the physicality of UK cold water swimming, as two friends set out to chase the sublime. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "Chasing the Sublime",
+            "url": "https://vimeo.com/292071219",
+            "year": "2018"
+        },
+        {
+            "description": "Sverri is a local Pastor and avid runner who uses his time on the trails to work through not only his own personal conflicts, but the conflicts of others he often is burdened with. ",
+            "lengthInMin": "8",
+            "tags": "",
+            "title": "The Running Pastor",
+            "url": "https://vimeo.com/340472874",
+            "year": "2019"
+        },
+        {
+            "description": "BMX street is one of the most frequently evolving sports in the world and, in Nigeria, a group of local riders are reinventing riding at a grassroots level. ",
+            "lengthInMin": "13",
+            "tags": "",
+            "title": "BMX Nigeria",
+            "url": "https://www.youtube.com/watch?v=UDZpsjtfYuY",
+            "year": "2019"
+        },
+        {
+            "description": "A brutal drought is gripping the Southwest and the Navajo reservation especially hard, threatening traditional shepherds and a way of life going back generations. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "The Shepherdess",
+            "url": "https://www.katiefalkenberg.com/#/shepherdess/",
+            "year": "2018"
+        },
+        {
+            "description": "What does it take to climb the world\u2019s first 9c? Let\u2019s find out in Silence, a movie by Bernardo Gim\u00e9nez. It shows what preceded the afternoon of September 3, 2017 when Adam Ondra, a professional rock climber and currently one of the best climbers in the world, made a little piece of climbing history when he climbed his project in the spectacular Hanshelleren Cave in Norway. The route, later named Silence, received a new grade of 9c and became the hardest route in the world. ",
+            "lengthInMin": "18",
+            "tags": "",
+            "title": "Silence",
+            "url": "https://www.youtube.com/watch?v=ZRTNHDd0gL8",
+            "year": "2018"
+        },
+        {
+            "description": "The documentary follows skiers Jochen Mesle and Max Kroneck on their most ambitious ski tour yet. A 100% self powered adventure from southern Germany all the way to the mediterranean sea. ",
+            "lengthInMin": "32",
+            "tags": "",
+            "title": "Ice & Palms",
+            "url": "https://vimeo.com/319200353",
+            "year": "2018"
+        },
+        {
+            "description": "Bears Ears National Monument is a public land under threat. In 2018, a group of Native American tribes put their differences aside and ran 1280 km to Bears Ears to send a message of unity. ",
+            "lengthInMin": "12",
+            "tags": "",
+            "title": "Sacred Strides",
+            "url": "https://vimeo.com/283490560",
+            "year": "2018"
+        },
+        {
+            "description": "Fly Above the ancient sands of the Moroccan coastline. Let your spirit soar with lightness and the feeling of Hourya. ",
+            "lengthInMin": "10",
+            "tags": "",
+            "title": "Hourya",
+            "url": "https://vimeo.com/289029793",
+            "year": "2018"
+        },
+        {
+            "description": "FAST HORSE follows the return of the Blackfoot bareback horse racing tradition in a new form: the Indian Relay. Siksika horseman Allison Red Crow struggles to build a team with second-hand horses and a new jockey, Cody Big Tobacco, to take on the best riders in the Blackfoot Confederacy at the Calgary Stampede. ",
+            "lengthInMin": "14",
+            "tags": "",
+            "title": "FAST HORSE",
+            "url": "https://vimeo.com/358170802",
+            "year": "2018"
+        },
+        {
+            "description": "In the backwoods of British Columbia, three small but dedicated crews of adventure seekers were quietly changing the course of a sport and carving their paths in history. The Moment captures the birth and success of the original freeride mountain bike movement. ",
+            "lengthInMin": "74",
+            "tags": "",
+            "title": "The Moment",
+            "url": "https://www.redbull.com/int-en/films/the-moment",
+            "year": "2017"
+        },
+        {
+            "description": "When 97-year-old runner George Etzweiler dons his lucky ancient green running shorts, he\u2019s not just running to the summit of Mt Washington, he carries something special with him: the memory of his late wife of 68 years. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "For the Love of Mary",
+            "url": "https://vimeo.com/273611679",
+            "year": "2018"
+        },
+        {
+            "description": "Margo Hayes, a little-known 19 year old from Boulder Colorado, has moved to Europe to train and climb with the goal of succeeding on two of the most iconic 5.15s in France and Spain. But by pushing her body and mind to the absolute limit, she risks injury and failure in her quest to be the first. ",
+            "lengthInMin": "26",
+            "tags": "",
+            "title": "Break on Through",
+            "url": "https://www.redbull.com/int-en/episodes/break-on-through-reel-rock-s04-e01",
+            "year": "2017"
+        },
+        {
+            "description": "Big Mountain rider Jeremy Jones dissects his lifelong passion for the simple sacred feeling he calls \u201cThe Glide.\u201d",
+            "lengthInMin": "16",
+            "tags": "",
+            "title": "Life of Glide",
+            "url": "https://www.youtube.com/watch?v=edYSL913rHI",
+            "year": "2017"
+        },
+        {
+            "description": "How can you be what you can\u2019t see? Mikhail Martin, co-founder of Brothers of Climbing said, \u201cI literally typed, \u2018Are there black climbers?\u2019 in Google ... someone said, \u2018black people don\u2019t climb.'\u201d",
+            "lengthInMin": "7",
+            "tags": "",
+            "title": "Brothers of Climbing",
+            "url": "https://www.youtube.com/watch?v=7LWq5s-s4pY",
+            "year": "2017"
+        },
+        {
+            "description": "Enter into the world of Oaxacan mountain bike culture during Mexico\u2019s famous annual celebration known as Dia De Los Muertos. ",
+            "lengthInMin": "12",
+            "tags": "",
+            "title": "Ride of the Dead",
+            "url": "https://www.youtube.com/watch?v=BLXR86vHUNU",
+            "year": "2017"
+        },
+        {
+            "description": "Join two riders from Japan as they dive into the cultural history of the dolomites clattering up Via Ferratas and shredding down couloirs along the way. ",
+            "lengthInMin": "12",
+            "tags": "",
+            "title": "Holocene",
+            "url": "https://www.youtube.com/watch?v=n8Yqf9Mn_ZY",
+            "year": "2018"
+        },
+        {
+            "description": "Beautiful Idiot takes you on a ride through the mindset and motivations of those who feel driven to pursue greatness, how it can feel to fall short, and the consequences of reaching a lofty goal when the struggle to get there has defined you for so long. Featuring professional freeride mountain bike rider Brett Rheeder. ",
+            "lengthInMin": "15",
+            "tags": "",
+            "title": "Beautiful Idiot",
+            "url": "https://vimeo.com/282402702",
+            "year": "2018"
+        },
+        {
+            "description": "Professional mountain bike athlete and artist Micayla Gatto adventures to the Indian Himalayas to experience the culture with her unique artistic perception. ",
+            "lengthInMin": "5",
+            "tags": "",
+            "title": "Perspectives | India",
+            "url": "https://freehubmag.com/videos/perspectives-india",
+            "year": "2018"
+        },
+        {
+            "description": "An international team of kayakers heads to Pakistan to attempt a descent of the fabled Rondu Gorge, on the Indus river. Hidden behind a wall of political and security factors meant it had been eight years since the last expedition had ventured into the gorge. ",
+            "lengthInMin": "27",
+            "tags": "",
+            "title": "Inside the Indus - A Pakistani Odyssey",
+            "url": "https://www.facebook.com/twelveproductions/videos/inside-the-indus-a-pakistani-odyssey/22 4 8154562075004/",
+            "year": "2017"
+        },
+        {
+            "description": "2018 Olympic Bronze Medalist skier racer, Victor Muffat-Jeandet, faces off against 2x World Drone Racing Champion, Jordan Temkin, in a dual GS race to see who is the fastest down the mountain. ",
+            "lengthInMin": "4",
+            "tags": "",
+            "title": "Skier Vs Drone",
+            "url": "https://www.youtube.com/watch?v=Wn_Fx2MwCB0",
+            "year": "2018"
+        },
+        {
+            "description": "Sam Anthamatten and Johnny Collinson travel to La Grave to push the limits of steep skiing and discover what makes La Grave so unique - a mythic freeride location where time stops. ",
+            "lengthInMin": "17",
+            "tags": "",
+            "title": "The Faction Collective Presents: La Grave",
+            "url": "https://www.youtube.com/watch?v=QkinG08IoKk",
+            "year": "2018"
+        },
+        {
+            "description": "A cultural ski journey up the historically-charged waters of the Columbia River in interior British Columbia. ",
+            "lengthInMin": "20",
+            "tags": "",
+            "title": "Children of the Columbia: A Skier\u2019s Odyssey",
+            "url": "https://vimeo.com/330851467",
+            "year": "2018"
+        },
+        {
+            "description": "Snow athletes Sam Smoothy, Xavier De Le Rue, Nadine Wallner and Fraser McDougall take on the challenge of skiing down New Zealand\u2019s highest mountain, the notorious Mount Cook (Aoraki). Will extreme weather and icy conditions defeat them? ",
+            "lengthInMin": "44",
+            "tags": "",
+            "title": "The Sky Piercer",
+            "url": "https://www.redbull.com/int-en/films/the-sky-piercer-2019-23-10",
+            "year": "2018"
+        },
+        {
+            "description": "Six friends embark on a determined quest to climb and then BASE jump \u2018The Lorax\u2019, a formidable climb in remote western Tasmania. Surrounded by some of the most pristine wilderness in all of Australia, they contend with extreme weather and rugged terrain, relying on each other\u2019s skills and a bit of humour to reach their goal. ",
+            "lengthInMin": "35",
+            "tags": "",
+            "title": "The Lorax Project",
+            "url": "https://vimeo.com/310331133",
+            "year": "2018"
+        },
+        {
+            "description": "JaBig, a Montreal-based DJ, buys a bike on a whim and decides to attempt to beat the record for the longest continuous bike ride in a single country. What\u2019s more, he\u2019ll ride a single-speed, fixed-gear bicycle and finish in the winter, approaching the Arctic Ocean by way of Canada\u2019s northernmost continental hamlet, Tuktoyaktuk in the Northwest Territories. ",
+            "lengthInMin": "8",
+            "tags": "",
+            "title": "Escape",
+            "url": "https://www.mec.ca/en/explore/mec-documentary-escape",
+            "year": "2018"
+        },
+        {
+            "description": "While dealing with one of the darkest times of her life, processing family trauma and recovering from injury, Azzah overhears a conversation around the question, \u201cwhat do you want to do before you die?\u201d Inspired and energized, she rushes home and begins her bucket list. Although she has never seen herself as much of an adventurer, she realizes she\u2019s capable of more than she ever imagined. ",
+            "lengthInMin": "8",
+            "tags": "",
+            "title": "Facing Sunrise",
+            "url": "https://www.mec.ca/en/explore/facing-sunrise",
+            "year": "2017"
+        },
+        {
+            "description": "Follow the first female Afghan mountaineering team as they navigate their first expedition and fight for recognition as athletes amongst their country, culture, and families. ",
+            "lengthInMin": "44",
+            "tags": "",
+            "title": "Ascending Afghanistan *warning graphic content",
+            "url": "https://video.vice.com/en_us/video/vice-impact-ascending-afghanistan-rising-women/587674b f f0d3f0d206a3cec6?latest=1",
+            "year": "2016"
+        },
+        {
+            "description": "Since 1973, the National Brotherhood of Skiers has overcome barriers by bringing soul, smiles and a party to the mountain. ",
+            "lengthInMin": "10",
+            "tags": "",
+            "title": "Brotherhood of Skiing",
+            "url": "https://vimeo.com/318824416",
+            "year": "2018"
+        },
+        {
+            "description": "The odds were stacked against Jayson Sime early in life: poverty, homelessness, dyslexia, bullying. But he learned to fight. In 2017, he entered his first 100-mile mountain ultramarathon, betting on his lifelong resilience to carry him to the finish line. ",
+            "lengthInMin": "28",
+            "tags": "",
+            "title": "How to Run 100 Miles",
+            "url": "https://www.youtube.com/watch?v=iC7Lh4opLsc",
+            "year": "2018"
+        },
+        {
+            "description": "The Balkan Peninsula is home to the last wild rivers in Europe. However, a deluge of more than 3,000 proposed hydropower developments threaten to destroy the culture and ecology of this forgotten region. Blue Heart, now in its first digital release, documents the battle for the largest undammed river in Europe, Albania\u2019s Vjosa, the effort to save the endangered Balkan lynx in Macedonia, and the women of Kru\u0161\u010dica, Bosnia and Herzegovina, who are spearheading a months-long, 24/7 protest to protect their community\u2019s only source of drinking water. ",
+            "lengthInMin": "44",
+            "tags": "",
+            "title": "Blue Heart",
+            "url": "https://www.youtube.com/watch?v=OhmHByZ0Xd8",
+            "year": "2018"
+        },
+        {
+            "description": "Through the inspiring legacy of Mary Vaux we will venture onto the Illecillewaet Glacier, reenacting her research and her mountain travel in the restriction of Victorian dresses. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "Carving Landscapes",
+            "url": "https://vimeo.com/299359466",
+            "year": "2018"
+        },
+        {
+            "description": "In 1974, my 20-year-old parents and uncle Andy built their own canoes, launched them into the Pacific, and became some of the first people in modern history to canoe from Washington to Alaska up the Inside Passage. My brother and I grew up paddling those wooden canoes in the Virginia rivers and the 1974 adventure became a legend in our family - shaping who we\u2019ve become, how we view our parents, and how our parents view themselves. In the summer of Curated by Lianne Caron 2017, we renovated those canoes and with our aging parents completed their 1974 journey. The Passage is a story about growing up, growing old, and the wild places that define us. ",
+            "lengthInMin": "25",
+            "tags": "",
+            "title": "The Passage",
+            "url": "https://vimeo.com/272632802",
+            "year": "2018"
+        },
+        {
+            "description": "After serving in the Vietnam War, author and eco-warrior Doug Peacock spent years alone in the Wyoming and Montana wilderness observing grizzly bears. This time in the wild changed the course of his life. With the protection of Yellowstone grizzlies now under threat, Peacock reflects on the importance of habitat and why he continues to fight for wild causes. ",
+            "lengthInMin": "12",
+            "tags": "",
+            "title": "Grizzly Country",
+            "url": "https://vimeo.com/300829054",
+            "year": "2018"
+        },
+        {
+            "description": "After the fall of the Soviet Union, Tajikistan, a former Soviet Socialist Republic, plunged into a devastating civil war. A famine struck the mountainous region of the Pamir where Ra\u00efmberdi, a passionate and ingenious botanist, built his own hydroelectric station to help his family survive through the crisis. ",
+            "lengthInMin": "20",
+            "tags": "",
+            "title": "The Botanist",
+            "url": "https://vimeo.com/267165412",
+            "year": "2016"
+        },
+        {
+            "description": "Could you survive alone across hundreds of kilometers of remote outback for a whole month, trekking and sailing on a makeshift raft, with nothing but a time capsule of antique stuff from 1932? Mike wasn\u2019t sure he could pull it off either! ",
+            "lengthInMin": "57",
+            "tags": "",
+            "title": "Surviving the Outback",
+            "url": "https://tubitv.com/movies/497254/surviving_the_outback",
+            "year": "2018"
+        },
+        {
+            "description": "Ultra-runners overcome obstacles on every trail. In this film, Force of Nature Mirna Valerio overcomes the negative voices that don\u2019t believe she belongs in the sport. ",
+            "lengthInMin": "11",
+            "tags": "",
+            "title": "The Mirnavator",
+            "url": "https://www.youtube.com/watch?v=c5-CSQcYeXk",
+            "year": "2017"
+        },
+        {
+            "description": "Drawn to the mountains in search of the ski bum lifestyle, Oskar Enander had no intention of ever becoming a photographer. Is his affinity for cold stark places driven by his color blindness? Or is it place that has formed his aesthetic? ",
+            "lengthInMin": "9",
+            "tags": "",
+            "title": "Ski Photographer",
+            "url": "https://vimeo.com/300544856",
+            "year": "2018"
+        },
+        {
+            "description": "Life has a way of putting us where we need to be. For Vala, that\u2019s in both Greenland \u2013 where she works at her family\u2019s fishing lodge \u2013 and Reykjav\u00edk, where she teaches her daughter how to do it all on her own, too. ",
+            "lengthInMin": "10",
+            "tags": "",
+            "title": "My Mom Vala",
+            "url": "https://www.youtube.com/watch?v=ERjQ7hcVxus",
+            "year": "2017"
+        },
+        {
+            "description": "Amo; in the native Rapa Nui Language means, to carry on ones shoulders. Easter Island is a place known the world across in myth and legend, but the people who call it home and the unique culture that they embody is often overlooked as the most valuable piece of the islands estranged story. In this short film, Heu Rapa Haoa, native born Rapa Nui and one of 800 remaining people left in the world who speak his native tongue fluently, tells his story of the island, the stone heads that brought Easter Island renowned, and in what he sees for his future and in that the future of his people the culture that defines them. ",
+            "lengthInMin": "7",
+            "tags": "",
+            "title": "AMO",
+            "url": "https://vimeo.com/254442752",
+            "year": "2017"
+        },
+        {
+            "description": "In a photographic niche defined by familiar angles, Ben Thouard is driven by his desire to create something original in surf photography. ",
+            "lengthInMin": "7",
+            "tags": "",
+            "title": "Surface",
+            "url": "https://www.youtube.com/watch?v=PeONe9teVWw",
+            "year": "2018"
+        },
+        {
+            "description": "Jacques is an 82-year-old badass athlete, but the real story is how he inspires us with his contagious love of life, epic tales of survival and his ability to counter aging through laughter. ",
+            "lengthInMin": "14",
+            "tags": "",
+            "title": "The Frenchy",
+            "url": "https://www.youtube.com/watch?v=Dhfipv8LXRg",
+            "year": "2018"
+        },
+        {
+            "description": "Inspired by a Dr. Seuss narrative, this mountain bike film is sure to take you places like no other. ",
+            "lengthInMin": "6",
+            "tags": "",
+            "title": "Dreamride 3",
+            "url": "https://vimeo.com/266377015",
+            "year": "2018"
+        },
+        {
+            "description": "Through a cinematic exploration of three extraordinary tree communities, Treeline brings forests alive on screen, illuminating the reciprocal bond between humanity and nature - a relationship we can\u2019t survive without - and asks what responsibility we have to protect the exceptional forests that remain. ",
+            "lengthInMin": "40",
+            "tags": "",
+            "title": "Treeline",
+            "url": "https://www.youtube.com/watch?v=YCEaYInJbos",
+            "year": "2018"
+        },
+        {
+            "description": "The Braford-Lefebrve family lives to run and runs to live. Without cell phones or any modern worry, the wolf pack roams the mountains around Silverton CO. ",
+            "lengthInMin": "12",
+            "tags": "",
+            "title": "The Wolf Pack",
+            "url": "https://www.youtube.com/watch?v=I83E6jSHBs4",
+            "year": "2018"
+        },
+        {
+            "description": "In his latest film Danny Macaskill takes on some child care the only way he knows how... by taking them for a wee bike ride around Scotland! ",
+            "lengthInMin": "4",
+            "tags": "",
+            "title": "Danny Macaskill: Danny Daycare",
+            "url": "https://www.youtube.com/watch?v=jj0CmnxuTaQ#action=share",
+            "year": "2019"
+        },
+        {
+            "description": "Record-breaking mountain endurance athlete Greg Hill has never shied away from a goal. Through his time spent in the mountains, he's seen the effects of climate change first-hand and came to realize the way he was approaching the mountains was only making the problem worse. Two years ago he changed his approach and set out to climb 100 peaks without burning any fossil fuels. But the question is: will it make a difference? ",
+            "lengthInMin": "20",
+            "tags": "",
+            "title": "Electric Greg",
+            "url": "https://www.youtube.com/watch?v=lTL5l4CcBdE&feature=youtu.be",
+            "year": "2019"
+        },
+        {
+            "description": "The path of progression is paved with acts of defiance. Leanne Pelosi, Jake Blauvelt, and Victor de Le Rue take the stage in British Columbia in a showcase of shred. ",
+            "lengthInMin": "13",
+            "tags": "",
+            "title": "Defiance",
+            "url": "https://www.youtube.com/watch?v=hUN-2fAgp0A&feature=youtu.be",
+            "year": "2019"
+        },
+        {
+            "description": "Mirna Valerio takes on her first ever sky race at the 4th annual Broken Arrow Sky Race. Mirna navigated the rocky, exposed ridge lines, steep climbs and snow filled descents of Squaw Valley with an attitude unlike any other. ",
+            "lengthInMin": "4",
+            "tags": "",
+            "title": "Par For The Course",
+            "url": "https://www.youtube.com/watch?v=13kb8geCNNc&feature=youtu.be",
+            "year": "2019"
+        },
+        {
+            "description": "Filmmaker Aaron Hitchins turns his camera on the person who has motivated him to lead a life connected to the outdoors: his mother, Maureen. He wishes he were half as active as she is, and her commitment to rediscovering herself is inspirational. ",
+            "lengthInMin": "4",
+            "tags": "",
+            "title": "The Motivator",
+            "url": "https://www.youtube.com/watch?v=xpLt8ThtOFc&feature=youtu.be",
+            "year": "2018"
+        }
+    ]
+}
