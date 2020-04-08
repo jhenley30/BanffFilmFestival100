@@ -12,7 +12,7 @@ Under `docs`, you can find:
 
 Each movie has a `tags` attribute that needs to be populated! If you'd like to contribute some tags, please do so.
 
-1. Clone this repository.
+1. Fork this repository.
 2. Watch a film.
 3. Issue a PR with comma separated tags for the film you saw, for example: `"tags":"mountains,nepal,sherpas"` or `"tags":"cycling,alaska"`
 
